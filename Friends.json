@@ -10,5 +10,11 @@
 	"link": "https://github.com/oCoke/Friends/", 
 	"avatar": "https://cdn.jsdelivr.net/gh/oCoke/Friends@master/images/FCDB017A-20DA-4247-887B-265BE5E505CE.jpeg", 
 	"des": "交换友链的仓库"
+  },
+  {
+    "name": "Prk易支付", 
+	"link": "https://www.prkepay.cn/", 
+	"avatar": "https://www.prkepay.cn/assets/img/logo.png", 
+	"des": "专业的个人站长支付接口"
   }
 ]
